@@ -1,0 +1,6 @@
+{
+  "name": "Learnly AI",
+  "description": "AI-powered primary-school test-preparation platform generating interactive practice quizzes with friendly step-by-step educational explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
